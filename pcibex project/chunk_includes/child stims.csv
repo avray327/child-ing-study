@@ -1,0 +1,94 @@
+item,trial_type,Group ,pic_width,pic_height,Prime_word,Target_word,Prime_pic_correct,Prime_pic_distract,Target_pic_correct,Target_pic_distract,prime_soundfile,target_soundfile
+1,ing prime,A,,,clapping,clapping,clapping_pc.png,clapping_pd.png,clapping_pc.png,clapping_td.png,clapping.wav,clapping.wav
+2,unrel prime,A,,,tiger,kicking,tiger_pc.png,tiger_pd.png,kicking_pc.png,kicking_td.png,tiger.wav,kicking.wav
+3,in prime,A,,,dancin,dancing,dancing_pc.png,dancing_pd.png,dancing_pc.png,dancing_td.png,dancin.wav,dancing.wav
+4,ing prime,A,,,drawing,drawing,drawing_pc.png,drawing_pd.png,drawing_pc.png,drawing_td.png,drawing.wav,drawing.wav
+5,unrel prime,A,,,dirty,driving,dirty_pc.png,dirty_pd.png,driving_pc.png,driving_td.png,dirty.wav,driving.wav
+6,in prime,A,,,singin,singing,singing_pc.png,singing_pd.png,singing_pc.png,singing_td.png,singin.wav,singing.wav
+7,ing prime,A,,,running,running,running_pc.png,running_pd.png,running_pc.png,running_td.png,running.wav,running.wav
+8,unrel prime,A,,,monkey,swimming,monkey_pc.png,monkey_pd.png,swimming_pc.png,swimming_td.png,monkey.wav,swimming.wav
+9,in prime,A,,,sleepin,sleeping,sleeping_pc.png,sleeping_pd.png,sleeping_pc.png,sleeping_td.png,sleepin.wav,sleeping.wav
+10,in prime,A,,,walkin,walking,walking_pc.png,walking_pd.png,walking_pc.png,walking_td.png,walkin.wav,walking.wav
+11,ing prime,A,,,hugging,hugging,hugging_pc.png,hugging_pd.png,hugging_pc.png,hugging_td.png,hugging.wav,hugging.wav
+12,unrel prime,A,,,table,throwing,table_pc.png,table_pd.png,throwing_pc.png,throwing_td.png,table.wav,throwing.wav
+13,in prime,A,,,talkin,talking,talking_pc.png,talking_pd.png,talking_pc.png,talking_td.png,talkin.wav,talking.wav
+14,ing prime,A,,,drinking,drinking,drinking_pc.png,drinking_pd.png,drinking_pc.png,drinking_td.png,drinking.wav,drinking.wav
+15,unrel prime,A,,,pizza,reading,pizza_pc.png,pizza_pd.png,reading_pc.png,reading_td.png,pizza.wav,reading.wav
+16,filler,A,,,book,baby,book_pc.png,book_pd.png,baby_tc.png,baby_td.png,book.wav,baby.wav
+17,filler,A,,,hand,spoon,hand_pc.png,hand_pd.png,spoon_tc.png,spoon_td.png,hand.wav,spoon.wav
+18,filler,A,,,doll,cup,doll_pc.png,doll_pd.png,cup_tc.png,cup_td.png,doll.wav,cup.wav
+19,filler,A,,,nose,duck,nose_pc.png,nose_pd.png,duck_tc.png,duck_td.png,nose.wav,duck.wav
+20,filler,A,,,ball,hat,ball_pc.png,ball_pd.png,hat_tc.png,hat_td.png,ball.wav,hat.wav
+21,filler,A,,,cow,house,cow_pc.png,cow_pd.png,house_tc.png,house_td.png,cow.wav,house.wav
+22,filler,A,,,bear,bread,bear_pc.png,bear_pd.png,bread_tc.png,bread_td.png,bear.wav,bread.wav
+23,filler,A,,,horse,clock,horse_pc.png,horse_pd.png,clock_tc.png,clock_td.png,horse.wav,clock.wav
+24,filler,A,,,feet,car,feet_pc.png,feet_pd.png,car_tc.png,car_td.png,feet.wav,car.wav
+25,filler,A,,,sandwich,bird,sandwich_pc.png,sandwich_pd.png,bird_tc.png,bird_td.png,sandwich.wav,bird.wav
+26,filler,A,,,door,cat,door_pc.png,door_pd.png,cat_tc.png,cat_td.png,door.wav,cat.wav
+27,filler,A,,,shirt,tree,shirt_pc.png,shirt_pd.png,tree_tc.png,tree_td.png,shirt.wav,tree.wav
+28,filler,A,,,orange,shoe,orange_pc.png,orange_pd.png,shoe_tc.png,shoe_td.png,orange.wav,shoe.wav
+29,filler,A,,,bed,frog,bed_pc.png,bed_pd.png,frog_tc.png,frog_td.png,bed.wav,frog.wav
+30,filler,A,,,boat,sock,boat_pc.png,boat_pd.png,sock_tc.png,sock_td.png,boat.wav,sock.wav
+31,filler,A,,,mouse,cake,mouse_pc.png,mouse_pd.png,cake_tc.png,cake_td.png,mouse.wav,cake.wav
+1,in prime,B,,,clappin,clapping,clapping_pc.png,clapping_pd.png,clapping_pc.png,clapping_td.png,clappin.wav,clapping.wav
+2,ing prime,B,,,kicking,kicking,kicking_pc.png,kicking_pd.png,kicking_pc.png,kicking_td.png,kicking.wav,kicking.wav
+3,unrel prime,B,,,turtle,dancing,turtle_pc.png,turtle_pd.png,dancing_pc.png,dancing_td.png,turtle.wav,dancing.wav
+4,in prime,B,,,drawin,drawing,drawing_pc.png,drawing_pd.png,drawing_pc.png,drawing_td.png,drawin.wav,drawing.wav
+5,ing prime,B,,,driving,driving,driving_pc.png,driving_pd.png,driving_pc.png,driving_td.png,driving.wav,driving.wav
+6,unrel prime,B,,,puppy,singing,puppy_pc.png,puppy_pd.png,singing_pc.png,singing_td.png,puppy.wav,singing.wav
+7,in prime,B,,,runnin,running,running_pc.png,running_pd.png,running_pc.png,running_td.png,runnin.wav,running.wav
+8,ing prime,B,,,swimming,swimming,swimming_pc.png,swimming_pd.png,swimming_pc.png,swimming_td.png,swimming.wav,swimming.wav
+9,unrel prime,B,,,bunny,sleeping,bunny_pc.png,bunny_pd.png,sleeping_pc.png,sleeping_td.png,bunny.wav,sleeping.wav
+10,unrel prime,B,,,chicken,walking,chicken_pc.png,chicken_pd.png,walking_pc.png,walking_td.png,chicken.wav,walking.wav
+11,in prime,B,,,huggin,hugging,hugging_pc.png,hugging_pd.png,hugging_pc.png,hugging_td.png,huggin.wav,hugging.wav
+12,ing prime,B,,,throwing,throwing,throwing_pc.png,throwing_pd.png,throwing_pc.png,throwing_td.png,throwing.wav,throwing.wav
+13,unrel prime,B,,,apple,talking,apple_pc.png,apple_pd.png,talking_pc.png,talking_td.png,apple.wav,talking.wav
+14,in prime,B,,,drinkin,drinking,drinking_pc.png,drinking_pd.png,drinking_pc.png,drinking_td.png,drinkin.wav,drinking.wav
+15,ing prime,B,,,reading,reading,reading_pc.png,reading_pd.png,reading_pc.png,reading_td.png,reading.wav,reading.wav
+16,filler,B,,,book,baby,book_pc.png,book_pd.png,baby_tc.png,baby_td.png,book.wav,baby.wav
+17,filler,B,,,hand,spoon,hand_pc.png,hand_pd.png,spoon_tc.png,spoon_td.png,hand.wav,spoon.wav
+18,filler,B,,,doll,cup,doll_pc.png,doll_pd.png,cup_tc.png,cup_td.png,doll.wav,cup.wav
+19,filler,B,,,nose,duck,nose_pc.png,nose_pd.png,duck_tc.png,duck_td.png,nose.wav,duck.wav
+20,filler,B,,,ball,hat,ball_pc.png,ball_pd.png,hat_tc.png,hat_td.png,ball.wav,hat.wav
+21,filler,B,,,cow,house,cow_pc.png,cow_pd.png,house_tc.png,house_td.png,cow.wav,house.wav
+22,filler,B,,,bear,bread,bear_pc.png,bear_pd.png,bread_tc.png,bread_td.png,bear.wav,bread.wav
+23,filler,B,,,horse,clock,horse_pc.png,horse_pd.png,clock_tc.png,clock_td.png,horse.wav,clock.wav
+24,filler,B,,,feet,car,feet_pc.png,feet_pd.png,car_tc.png,car_td.png,feet.wav,car.wav
+25,filler,B,,,sandwich,bird,sandwich_pc.png,sandwich_pd.png,bird_tc.png,bird_td.png,sandwich.wav,bird.wav
+26,filler,B,,,door,cat,door_pc.png,door_pd.png,cat_tc.png,cat_td.png,door.wav,cat.wav
+27,filler,B,,,shirt,tree,shirt_pc.png,shirt_pd.png,tree_tc.png,tree_td.png,shirt.wav,tree.wav
+28,filler,B,,,orange,shoe,orange_pc.png,orange_pd.png,shoe_tc.png,shoe_td.png,orange.wav,shoe.wav
+29,filler,B,,,bed,frog,bed_pc.png,bed_pd.png,frog_tc.png,frog_td.png,bed.wav,frog.wav
+30,filler,B,,,boat,sock,boat_pc.png,boat_pd.png,sock_tc.png,sock_td.png,boat.wav,sock.wav
+31,filler,B,,,mouse,cake,mouse_pc.png,mouse_pd.png,cake_tc.png,cake_td.png,mouse.wav,cake.wav
+1,unrel prime,C,,,crayon,clapping,crayon_pc.png,crayon_pd.png,clapping_pc.png,clapping_td.png,crayon.wav,clapping.wav
+2,in prime,C,,,kickin,kicking,kicking_pc.png,kicking_pd.png,kicking_pc.png,kicking_td.png,kickin.wav,kicking.wav
+3,ing prime,C,,,dancing,dancing,dancing_pc.png,dancing_pd.png,dancing_pc.png,dancing_td.png,dancing.wav,dancing.wav
+4,unrel prime,C,,,flower,drawing,flower_pc.png,flower_pd.png,drawing_pc.png,drawing_td.png,flower.wav,drawing.wav
+5,in prime,C,,,drivin,driving,driving_pc.png,driving_pd.png,driving_pc.png,driving_td.png,drivin.wav,driving.wav
+6,ing prime,C,,,singing,singing,singing_pc.png,singing_pd.png,singing_pc.png,singing_td.png,singing.wav,singing.wav
+7,unrel prime,C,,,button,running,button_pc.png,button_pd.png,running_pc.png,running_td.png,button.wav,running.wav
+8,in prime,C,,,swimmin,swimming,swimming_pc.png,swimming_pd.png,swimming_pc.png,swimming_td.png,swimmin.wav,swimming.wav
+9,ing prime,C,,,sleeping,sleeping,sleeping_pc.png,sleeping_pd.png,sleeping_pc.png,sleeping_td.png,sleeping.wav,sleeping.wav
+10,ing prime,C,,,walking,walking,walking_pc.png,walking_pd.png,walking_pc.png,walking_td.png,walking.wav,walking.wav
+11,unrel prime,C,,,zebra,hugging,zebra_pc.png,zebra_pd.png,hugging_pc.png,hugging_td.png,zebra.wav,hugging.wav
+12,in prime,C,,,throwin,throwing,throwing_pc.png,throwing_pd.png,throwing_pc.png,throwing_td.png,throwin.wav,throwing.wav
+13,ing prime,C,,,talking,talking,talking_pc.png,talking_pd.png,talking_pc.png,talking_td.png,talking.wav,talking.wav
+14,unrel prime,C,,,cookie,drinking,cookie_pc.png,cookie_pd.png,drinking_pc.png,drinking_td.png,cookie.wav,drinking.wav
+15,in prime,C,,,readin,reading,reading_pc.png,reading_pd.png,reading_pc.png,reading_td.png,readin.wav,reading.wav
+16,filler,C,,,book,baby,book_pc.png,book_pd.png,baby_tc.png,baby_td.png,book.wav,baby.wav
+17,filler,C,,,hand,spoon,hand_pc.png,hand_pd.png,spoon_tc.png,spoon_td.png,hand.wav,spoon.wav
+18,filler,C,,,doll,cup,doll_pc.png,doll_pd.png,cup_tc.png,cup_td.png,doll.wav,cup.wav
+19,filler,C,,,nose,duck,nose_pc.png,nose_pd.png,duck_tc.png,duck_td.png,nose.wav,duck.wav
+20,filler,C,,,ball,hat,ball_pc.png,ball_pd.png,hat_tc.png,hat_td.png,ball.wav,hat.wav
+21,filler,C,,,cow,house,cow_pc.png,cow_pd.png,house_tc.png,house_td.png,cow.wav,house.wav
+22,filler,C,,,bear,bread,bear_pc.png,bear_pd.png,bread_tc.png,bread_td.png,bear.wav,bread.wav
+23,filler,C,,,horse,clock,horse_pc.png,horse_pd.png,clock_tc.png,clock_td.png,horse.wav,clock.wav
+24,filler,C,,,feet,car,feet_pc.png,feet_pd.png,car_tc.png,car_td.png,feet.wav,car.wav
+25,filler,C,,,sandwich,bird,sandwich_pc.png,sandwich_pd.png,bird_tc.png,bird_td.png,sandwich.wav,bird.wav
+26,filler,C,,,door,cat,door_pc.png,door_pd.png,cat_tc.png,cat_td.png,door.wav,cat.wav
+27,filler,C,,,shirt,tree,shirt_pc.png,shirt_pd.png,tree_tc.png,tree_td.png,shirt.wav,tree.wav
+28,filler,C,,,orange,shoe,orange_pc.png,orange_pd.png,shoe_tc.png,shoe_td.png,orange.wav,shoe.wav
+29,filler,C,,,bed,frog,bed_pc.png,bed_pd.png,frog_tc.png,frog_td.png,bed.wav,frog.wav
+30,filler,C,,,boat,sock,boat_pc.png,boat_pd.png,sock_tc.png,sock_td.png,boat.wav,sock.wav
+31,filler,C,,,mouse,cake,mouse_pc.png,mouse_pd.png,cake_tc.png,cake_td.png,mouse.wav,cake.wav
